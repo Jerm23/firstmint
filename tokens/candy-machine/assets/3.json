@@ -1,0 +1,28 @@
+{
+    "name": "SBFMon #4",
+    "symbol": "sbf",
+    "description": "The Studious Crabs are smart and productive crabs.",
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "fraud"
+        },
+        {
+            "trait_type": "sbf",
+            "value": "pinky"
+        },
+        {
+            "trait_type": "yes",
+            "value": "black"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
